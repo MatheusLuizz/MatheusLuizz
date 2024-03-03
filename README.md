@@ -1,7 +1,7 @@
 ##
 
 - 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Java e banco de dados
+- 🌱 Estudando Desenvolvimento Backend 
 
 
 ##
